@@ -5,7 +5,7 @@ Is your Mazda telling you to turn left where there's now a shopping mall? 😅 T
 
 In this guide, we’ll walk you through the steps to **update Mazda maps**, why it’s important, and what to do when things don’t go quite right. Buckle up! 🛣️
 
-.. image:: start.png
+.. image:: update-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
